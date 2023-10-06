@@ -12,5 +12,5 @@ Most of the datasets are from [Kaggle](https://www.kaggle.com/)
 [Medium](https://medium.datadriveninvestor.com/51-data-sets-for-beginner-data-science-and-machine-learning-projects-61edf14095a0)\
 [Kaggle](https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets)
 
-# Followed youtube tutorials are: 
+# Followed youtube tutorials: 
 [Getting Started on Kaggle | Kaggle](https://www.youtube.com/playlist?list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW)
