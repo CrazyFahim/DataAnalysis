@@ -1,5 +1,5 @@
 # DataAnalysis
-My repository for exploring sklearn\
+My repository for exploring sklearn
 
 
 [Link for skearn](https://scikit-learn.org/stable/)\
